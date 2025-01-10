@@ -1,6 +1,6 @@
 # Langchain RAG using Chroma
 
-Python 3.9.21
+Python 3.9.21\
 conda 23.7.4
 
 ## Install dependencies
